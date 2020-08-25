@@ -1,0 +1,2 @@
+# Documents
+Official FrigidSec Documentation
